@@ -4,3 +4,7 @@
 4. delete user
 
 1.Create post
+
+
+1. Create blog
+2. edit blog
