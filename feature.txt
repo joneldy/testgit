@@ -2,3 +2,5 @@
 2.edit user
 3. update user
 4. delete user
+
+1.Create post
